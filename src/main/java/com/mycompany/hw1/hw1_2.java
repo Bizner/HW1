@@ -26,8 +26,7 @@ public class hw1_2 {
     c = scanz.nextInt();
     
     if(a > b && a > c){
-        System.out.println("Max : ");
-        System.out.println(a);
+        System.out.println("Max : "+a);
     }
     else if(b > a && b > c){
         System.out.println("Max : ");
