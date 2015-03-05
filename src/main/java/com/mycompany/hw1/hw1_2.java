@@ -29,12 +29,10 @@ public class hw1_2 {
         System.out.println("Max : "+a);
     }
     else if(b > a && b > c){
-        System.out.println("Max : ");
-        System.out.println(b);
+        System.out.println("Max : "+b);
     }
     else{
-        System.out.println("Max : ");
-        System.out.println(c);
+        System.out.println("Max : "+c);
     }
     
   }
