@@ -18,22 +18,22 @@ public class hw1_3 {
         System.out.println("Plese Input Point (0 - 100) : ");
         Scanner scan = new Scanner(System.in);
         grade = scan.nextInt();
-        tmp = (((int)((float)grade / 40 )) * 5);
+        tmp = (float)grade;
         result = (int) tmp;
     switch(result){
-        case 0:
+        case 40:
             System.out.println("F");
             break;
-        case 5:
+        case 50:
             System.out.println("D");
             break;
-        case 6:
+        case 60:
             System.out.println("C");
             break;
-        case 7:
+        case 70:
             System.out.println("B");
             break;
-        case 8:
+        case 80:
             System.out.println("A");
             break;
         default:
