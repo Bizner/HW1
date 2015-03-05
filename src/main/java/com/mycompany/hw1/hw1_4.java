@@ -16,7 +16,7 @@ public class hw1_4 {
         int n,sum = 0,count = 0;
         Scanner scan = new Scanner(System.in);
         
-        System.out.println("Plese Input Number (0-n)");
+        System.out.println("Plese Input Number(0-n)");
         n = scan.nextInt();
         
         for(int i = 1 ; i <= n ; i++){
