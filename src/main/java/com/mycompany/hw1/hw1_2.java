@@ -18,11 +18,11 @@ public class hw1_2 {
     Scanner scany = new Scanner(System.in);
     Scanner scanz = new Scanner(System.in);
      
-    System.out.println("Plese input number : ");
+    System.out.println("Plese Input Number : ");
     a = scanx.nextInt();
-    System.out.println("Plese input number : ");
+    System.out.println("Plese Input Number : ");
     b = scany.nextInt();
-    System.out.println("Plese input number : ");
+    System.out.println("Plese Input Number : ");
     c = scanz.nextInt();
     
     if(a > b && a > c){
