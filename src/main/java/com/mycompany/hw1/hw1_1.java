@@ -13,7 +13,7 @@ import java.util.Scanner;
  */
 public class hw1_1 {
     public static void main(String[] args) {
-        System.out.println("Plese input number : ");
+        System.out.println("Input Number : ");
         Scanner scan = new Scanner(System.in);
         float number = scan.nextFloat();
         
