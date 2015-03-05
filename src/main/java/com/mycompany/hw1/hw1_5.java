@@ -16,7 +16,7 @@ public class hw1_5 {
         int n, a, d, swap, number, max = 0;
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Plese Input Number Integer");
+        System.out.println("Plese Input Numbers Integer");
         n = scan.nextInt();
 
         int[] array = new int[n];
