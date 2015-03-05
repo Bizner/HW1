@@ -9,6 +9,6 @@ package com.mycompany.hw1;
  *
  * @author FUWTF
  */
-public class hw1_6 {
+public class hw1_63 {
     
 }
